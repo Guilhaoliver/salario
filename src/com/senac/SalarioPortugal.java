@@ -17,7 +17,9 @@ public class SalarioPortugal {
 
         double salarioPorMesJunior = mes * salarioPorDiaJunior;
         double salarioPorMesPleno = mes * salarioPorDiaPleno;
-        double salarioPor
+        double salarioPorMesSenior = mes * salarioPorDiaSenior;
+
+        System.out.println();
 
     }
 }
